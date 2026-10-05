@@ -9,8 +9,7 @@ classification.
 
 ## Core Question
 
-How much of a material catalog can be safely automated while
-maintaining a target precision of 98%?
+How much of a material catalog can be safely automated at different precision thresholds?
 
 ## Input
 
