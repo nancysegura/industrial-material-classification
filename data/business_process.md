@@ -11,8 +11,6 @@ especially when large historical backlogs need to be reviewed.
 
 ## AS-IS Process
 
-### New Material
-
 ```mermaid
 flowchart TD
     A[Material Created or Acquired] --> B[Engineering / Business Review]
