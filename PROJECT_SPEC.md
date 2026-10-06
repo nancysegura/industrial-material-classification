@@ -17,6 +17,7 @@ The system should support both new material records and historical unclassified 
 ## Core Question
 
 How much of a material catalog can be safely automated at different precision thresholds?
+How much of a material catalog can be safely automated at different precision thresholds?
 
 ## Input
 
